@@ -7,3 +7,4 @@
 /dataSources.local.xml
 node_modules/
 files/
+bulk_import.json
